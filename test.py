@@ -25,17 +25,3 @@ def is_reloaded():
     pass
 def is_restarting():
     pass
-def is_stopping():
-    pass
-def is_starting():
-    pass
-def is_disabled():
-    pass
-def is_enabled():
-    pass
-def is_disabled():
-    pass
-def is_reloading():
-    pass
-def is_status():
-    pass
